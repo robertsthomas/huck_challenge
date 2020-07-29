@@ -1,0 +1,75 @@
+.top-container {
+	max-width: 1400px;
+	padding-left: 60px;
+	padding-right: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	.header {
+		height: 75px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-bottom: 1px solid #f1f3f3;
+		.full-width {
+			width: 100%;
+			display: block;
+			.row {
+				min-height: 1px;
+				vertical-align: top;
+				list-style: none;
+				.col {
+					vertical-align: middle;
+					width: 33.33333%;
+					display: inline-block;
+					.logo-container {
+						margin-top: 5px;
+						vertical-align: middle;
+						text-align: center;
+					}
+					.list {
+						margin: 0;
+						padding: 0;
+						list-style: none;
+						text-align: right;
+						li {
+							margin-right: 25px;
+							display: inline-block;
+							font-size: 16px;
+							line-height: 20px;
+							.account-link {
+								position: relative;
+								margin-right: 15px;
+								a {
+									font-size: 16px;
+									line-height: 20px;
+									text-decoration: none;
+									cursor: pointer;
+									color: #1d2b39;
+									font-family: Franklin Gothic Condensed, sans-serif;
+								}
+							}
+							.cart {
+								min-width: 40px;
+								button {
+									display: inline-block;
+									border: none;
+									padding: 0;
+									background: none;
+									text-align: center;
+									cursor: pointer;
+									user-select: none;
+									appearance: none;
+									border-radius: 0;
+									vertical-align: -7px;
+									margin-right: 5px;
+									width: 17px;
+									height: 21px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

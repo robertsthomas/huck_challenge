@@ -1,0 +1,140 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.Header {
+	padding: 0 15px;
+	display: flex;
+	font-size: 14px;
+	font-family: Franklin Gothic Condensed, sans-serif;
+	font-weight: 600;
+	.search {
+		display: flex;
+		margin-left: auto;
+		margin-right: 2em;
+		justify-content: flex-end;
+		align-items: center;
+	}
+	a {
+		text-decoration: none;
+	}
+	.menu {
+		list-style-type: none;
+	}
+
+	.item {
+		order: 1;
+		position: relative;
+		width: auto;
+		padding: 10px;
+		a {
+			text-decoration: none;
+			color: #1d2b39;
+			cursor: pointer;
+		}
+		.active {
+			box-shadow: 0 3px 0 0 #fbce0a;
+		}
+	}
+
+	.menu {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		flex-wrap: nowrap;
+		width: 40%;
+		margin: 0 10%;
+
+		li a {
+			padding: 15px 5px;
+		}
+		li.subitem a {
+			padding: 15px;
+		}
+	}
+	.active .item {
+		display: block;
+	}
+	.submenu-active .submenu {
+		display: none;
+		position: absolute;
+		left: 0;
+		top: 64px;
+		background: #111;
+	}
+}
+
+.grid-container {
+	width: 100%;
+	padding: 30px 60px;
+	.navigation-panel {
+		display: grid;
+		grid-template-columns: auto 34.4em 1fr;
+		grid-template-rows: auto;
+	}
+	.categories {
+		display: grid;
+		grid-template-columns: repeat(4, auto);
+		grid-template-rows: auto auto auto auto;
+		grid-column-gap: 1em;
+		grid-row-gap: 1em;
+		.column {
+			width: 9em;
+			text-transform: uppercase;
+			font-size: 14px;
+			line-height: 20px;
+			h4 {
+				color: black;
+				letter-spacing: 0;
+				margin-bottom: 10px;
+				a {
+					color: inherit;
+					text-decoration: none;
+					font-size: 14px;
+				}
+			}
+			ul {
+				list-style: none;
+				li a.link {
+					font-size: 13px;
+					line-height: 24px;
+					text-decoration: none;
+					color: inherit;
+					font-family: Franklin Gothic Condensed, sans-serif;
+				}
+			}
+		}
+	}
+	.features {
+		display: flex;
+		flex-direction: row;
+		height: 21.4em;
+		overflow: hidden;
+		flex-wrap: wrap;
+		width: 100%;
+		.feature-column {
+			width: calc(50% - 1.4em);
+			margin-left: 1.4em;
+			margin-top: 0.6em;
+			.tile {
+				margin-bottom: 0.3em;
+				display: block !important;
+				text-decoration: none;
+				color: inherit;
+				cursor: pointer;
+				span.image {
+					display: block;
+					background-size: cover;
+					background-position: 50%;
+					background-repeat: no-repeat;
+					height: 8.1em;
+					width: 100%;
+					object-fit: cover;
+					object-position: 50% 0;
+				}
+			}
+		}
+	}
+}

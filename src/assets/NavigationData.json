@@ -1,0 +1,140 @@
+{
+	"navigation": 
+		{
+			"items": [
+				{ "title": "New", "url": "https://huckberry.com/store/just-landed", "children": [] },
+				{ "title": "Clothing", "url": "https://huckberry.com/store/t/category/clothing", "children": 
+					[ 
+					  { "title": "Outerwear", "url": "https://huckberry.com/store/t/category/clothing/outerwear", "children": 
+					  	[ 
+					  	  {"title": "Blazers", "url": "https://huckberry.com/store/t/category/clothing/outerwear/blazers"},
+					  	  {"title": "Trucker Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/trucker-jackets"},
+					  	  {"title": "Lightweight jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/lightweight-jackets"},
+					  	  {"title": "Shirt Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/shirt-jackets"},
+					  	  {"title": "Waxed Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/waxed-jackets"},
+					  	  {"title": "Leather Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/leather-jackets"},
+					  	  {"title": "Quilted Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/quilted-jackets"},
+					  	  {"title": "Insulated jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/insulated-jackets"},
+					  	  {"title": "Winter Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/winter-jackets"},
+					  	  {"title": "Rain Jackets", "url": "https://huckberry.com/store/t/category/clothing/outerwear/rain-jackets"},
+					  	  {"title": "Vests", "url": "https://huckberry.com/store/t/category/clothing/outerwear/vests"}
+					  	] 
+					  },
+					  { "title": "Tops", "url": "https://huckberry.com/store/t/category/clothing/tops", "children": 
+					  	[ 
+					  	  {"title": "Long Sleeve Shirts", "url": "https://huckberry.com/store/t/category/clothing/tops/long-sleeve-shirts"},
+					  	  {"title": "Sweatshirts & Hoodies", "url": "https://huckberry.com/store/t/category/clothing/tops/sweatshirts-and-hoodies"},
+					  	  {"title": "Sweaters", "url": "https://huckberry.com/store/t/category/clothing/tops/sweaters"},
+					  	  {"title": "Polos", "url": "https://huckberry.com/store/t/category/clothing/tops/polos"},
+					  	  {"title": "Henleys", "url": "https://huckberry.com/store/t/category/clothing/tops/henleys"},
+					  	  {"title": "Tees", "url": "https://huckberry.com/store/t/category/clothing/tops/tees"},
+					  	  {"title": "Short Sleeve Shirts", "url": "https://huckberry.com/store/t/category/clothing/tops/quilted-jackets"},
+					  	  {"title": "Performance", "url": "https://huckberry.com/store/t/category/clothing/tops/performance"}
+					  	] 
+					  },
+					  { "title": "Bottoms", "url": "https://huckberry.com/store/t/category/clothing/bottoms", "children": 
+					  	[ 
+						  	{"title": "Pants", "url": "https://huckberry.com/store/t/category/clothing/bottoms/pants"},
+								{"title": "Denim", "url": "https://huckberry.com/store/t/category/clothing/bottoms/denim"},
+								{"title": "Active", "url": "https://huckberry.com/store/t/category/clothing/bottoms/active"},
+								{"title": "Shorts", "url": "https://huckberry.com/store/t/category/clothing/bottoms/shorts"},
+								{"title": "Swim", "url": "https://huckberry.com/store/t/category/clothing/bottoms/swim"}
+							]
+					  },
+					  { "title": "Basics", "url": "https://huckberry.com/store/t/category/clothing/basics", "children": 
+					  	[ 
+					  		{"title": "Underwear", "url": "https://huckberry.com/store/t/category/clothing/basics/underwear"},
+								{"title": "Socks", "url": "https://huckberry.com/store/t/category/clothing/basics/socks"}
+							]
+						},
+					  { "title": "Activewear", "url": "https://huckberry.com/store/t/category/clothing/activewear", "children": 
+					  	[ 
+								{"title": "Activewear", "url": "https://huckberry.com/store/t/category/clothing/activewear/activewear"}
+					  	]
+					  }
+				], 
+				"features": {
+					"tiles": [
+						{"url": "/flint-and-tinder", "title": "Flint and Tinder", "imageUrl": "https://content.huckberry.com/assets/navigation/hero_fnt-80faef84fc3cf2321374d4fb98209c13f1b5828bacdbefae2126a0471d0a13b9.jpg"},
+						{"url": "/store/shop/taylor-stitch", "title": "Taylor Stitch", "imageUrl": "https://huckberry.imgix.net/store/shop_metadata/000/000/822/heros/original/02_Hero_ts_ojai.jpg?auto=compress%2Cformat&cs=tinysrgb&fit=clip&h=280&w=360"},
+						{"url": "/store/shop/relwen", "title": "Relwen", "imageUrl": "https://huckberry.imgix.net/store/shop_metadata/000/000/829/heros/original/Hero_Relwen_1909_2.jpg?auto=compress%2Cformat&cs=tinysrgb&fit=clip&h=280&w=360"},
+						{"url": "/proof", "title": "Proof", "imageUrl": "https://content.huckberry.com/assets/navigation/hero_proof-6a4ddc9aaccd79b1bb2ab57982ecbd3c964795c8327bd0579ff5752f4cf4a334.jpg"}
+					]
+				}
+			},
+			{ "title": "Everyday Carry", "url": "https://huckberry.com/store/t/category/everyday-carry", "children": 
+					[ 
+					  { "title": "Bags", "url": "https://huckberry.com/store/t/category/everyday-carry/bags", "children": 
+					  	[ 
+	              {"title": "Backpacks", "url": "https://huckberry.com/store/t/category/everyday-carry/bags/backpacks"},
+	              {"title": "Duffels", "url": "https://huckberry.com/store/t/category/everyday-carry/bags/duffels"},
+	              {"title": "Travel Bags", "url": "https://huckberry.com/store/t/category/everyday-carry/bags/travel-bags"},
+	              {"title": "Briefcase & Shoulder", "url": "https://huckberry.com/store/t/category/everyday-carry/bags/briefcase-and-shoulder"},
+	              {"title": "Personal Organization", "url": "https://huckberry.com/store/t/category/everyday-carry/bags/personal-organization"}
+					  	] 
+					  },
+					  { "title": "Wallets", "url": "https://huckberry.com/store/t/category/everyday-carry/wallets", "children": 
+					  	[ 
+					  	  {"title": "Minimalist Wallets", "url": "https://huckberry.com/store/t/category/everyday-carry/wallets/minimalist-wallets"},
+								{"title": "Full Wallets", "url": "https://huckberry.com/store/t/category/everyday-carry/wallets/full-wallets"},
+								{"title": "Phone Cases", "url": "https://huckberry.com/store/t/category/everyday-carry/wallets/phone-cases"}
+					  	] 
+					  },
+					  { "title": "Tools", "url": "https://huckberry.com/store/t/category/everyday-carry/tools", "children": 
+					  	[ 
+	 							{"title": "Pocket Tools", "url": "/store/t/category/everyday-carry/tools/pocket-tools"},
+	              {"title": "Knives", "url": "/store/t/category/everyday-carry/tools/knives"},
+	              {"title": "Tech & Audio", "url": "/store/t/category/everyday-carry/tools/tech-and-audio"},
+	              {"title": "Pens", "url": "/store/t/category/everyday-carry/tools/pens"},
+	              {"title": "Water Bottles", "url": "/store/t/category/everyday-carry/tools/water-bottles"}
+							]
+					  }
+				], 
+				"features": {
+					"tiles": [
+						{"url": "/store/north-st-bags", "title": "North St. Bags", "imageUrl": "https://huckberry.imgix.net/store/brands/000/002/7…ompress%2Cformat&cs=tinysrgb&fit=clip&h=280&w=360"},
+					  {"url": "/store/evergoods", "title": "EVERGOODS", "imageUrl": "https://huckberry.imgix.net/store/brands/000/000/6…ompress%2Cformat&cs=tinysrgb&fit=clip&h=280&w=360"},
+						{"url": "/store/shop/flint-and-tinder-accessories", "title": "Flint and Tinder: Accessories", "imageUrl": "https://huckberry.imgix.net/store/shop_metadata/00…ompress%2Cformat&cs=tinysrgb&fit=clip&h=280&w=360"},
+						{"url": "/store/andar", "title": "Andar", "imageUrl": "https://huckberry.imgix.net/store/brands/000/002/7…ompress%2Cformat&cs=tinysrgb&fit=clip&h=280&w=360"}
+					]
+				}
+			},
+			{ "title": "Journal", "url": "https://huckberry.com/journal", "children": 
+				[
+					{"title": "Journal", "url": "https://huckberry.com/journal", "children": 
+	      		[
+	   			   	 {"title": "Adventure", "url": "https://huckberry.com/journal?category=adventure"},
+	   			     {"title": "Culture", "url": "https://huckberry.com/journal?category=culture"},
+	   			     {"title": "Diversions + Tunes", "url": "https://huckberry.com/journal?category=diversions-tunes"},
+	   			     {"title": "Featured", "url": "https://huckberry.com/journal?category=featured"},
+	   			     {"title": "History", "url": "https://huckberry.com/journal?category=history"},
+	   			     {"title": "Provisions", "url": "https://huckberry.com/journal?category=provisions"},
+	   			     {"title": "Shelter", "url": "https://huckberry.com/journal?category=shelter"},
+	   			     {"title": "Top", "url": "https://huckberry.com/journal?category=top"}
+	   			  ]
+					},
+					{"title": "Community", "url": "https://huckberry.com/community", "children": 
+						[
+	 						{"title": "Ambassadors", "url": "https://huckberry.com/special-projects/ambassadors"},
+							{"title": "Artist Series", "url": "https://huckberry.com/special-projects/artists"}
+						]
+					}
+				], 
+			"features": {
+				"tiles": 
+					[
+						{"url": "/journal/posts/toughest-fish-to-catch", "title": "The Toughest Fish to Catch in the World", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2447/tile_permit_fish.jpeg"},
+		        {"url": "/journal/posts/jalapeno-cornbread-recipe", "title": "Provisions: Jalapeño Cheese Corn Bread", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2414/tile_cornbread.jpg"},
+		        {"url": "/journal/posts/best-waxed-jacket", "title": "The Best Men’s Waxed Canvas Jackets We’re Wearing Through Spring", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2411/tile_quilted_waxed_shirt_jacket_hero.jpeg"},
+		        {"url": "/journal/posts/best-work-boots", "title": "The 9 Best Men’s Work Boots", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2291/tile_work_boots_banner.jpg"},
+		        {"url": "/journal/posts/essential-mens-pants", "title": "The 5 Pants Every Guy Should Own", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2412/tile_365_surfing.jpeg"},
+		        {"url": "/journal/posts/8-things-that-happened-when-i-tried…tent-fasting-3f4bd7da-cead-402a-a49e-d43e62d32ddb", "title": "8 Things That Happened When I Tried Intermittent Fasting", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/1940/tile_intermittent_fasting.jpg"},
+		        {"url": "/journal/posts/meta-brevity", "title": "Exploring Colorado’s Ghost Towns by Motorcycle", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2406/tile_meta-brevity-banner.jpg"},
+		        {"url": "/journal/posts/lessons-from-huckberry-co-founders-richard-greiner-and-andy-forch", "title": "How We Built Huckberry", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2336/tile_Andrew_Forch_and_Richard_Greiner.jpg"},
+		        {"url": "/journal/posts/6-reasons-to-hop-on-a-plane-to-japan-before-ski-season-ends", "title": "6 Reasons to Hop on a Plane to Japan Before Ski Season Ends", "imageUrl": "https://huckberry.imgix.net/uploads/post/image/2129/tile_goskiinjapan.jpg"}
+					]
+				}
+			}
+		]
+	}
+}
